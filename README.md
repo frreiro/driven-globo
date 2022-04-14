@@ -9,7 +9,7 @@ Primeiro projeto de desenvolvimento utilizando apenas HTML e CSS puro.
 
 O projeto teve como requisitos conceitos básicos de HTML como o uso de:
   - Divs
-  - Tags semânticas!
+  - Tags semânticas
   - Imagens
   - Links
 
